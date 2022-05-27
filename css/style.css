@@ -19,12 +19,20 @@
 }
 
 .sect {
-  background-color: rgba(245, 245, 245, 0.815);
+  background-color: #dbdffd;
   height: 300px;
   width: 950px;
   margin-top: 50px;
   margin-left: 250pt;
   margin-right: 100pt;
+  border: 0em;
+}
+.last {
+  background-color: #2d50ec;
+  color: white;
+  margin-top: 50pt;
+  margin-left: 70pt;
+  margin-right: 70pt;
 }
 
 .first-section {
@@ -61,8 +69,12 @@ h2 {
 }
 
 h3 {
-  text-align: center;
-  padding-top: 10pt;
+  font-weight: 100;
+  padding-top: 70pt;
+  padding-bottom: 10pt;
+  padding-left: 70pt;
+  padding-right: 60pt;
+  font-style: italic;
 }
 
 ul,
