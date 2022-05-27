@@ -34,11 +34,22 @@
   width: 700px;
   border-radius: 7pt;
   margin-top: 30pt;
+  margin-bottom: 50pt;
   margin-left: 300pt;
   margin-right: 250pt;
   padding-top: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+}
+
+#copy {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: small;
+  border: 0em;
 }
 
 .first-section {
