@@ -3,9 +3,11 @@
   text-align: center;
   float: right;
   margin-bottom: 10px;
-  margin-top: -125px;
-  height: 150px;
+  margin-top: -180px;
+
+  height: 200px;
   width: 400px;
+  border: 0em;
 }
 
 #text {
@@ -19,7 +21,7 @@
 }
 
 .sect {
-  background-color: #dbdffd;
+  background-color: #e5e7eb;
   height: 300px;
   width: 950px;
   margin-top: 50px;
@@ -28,7 +30,7 @@
   border: 0em;
 }
 .last {
-  background-color: #3f76cf;
+  background-color: #3882f6;
   color: white;
   height: 50px;
   width: 700px;
@@ -64,11 +66,12 @@
   padding-top: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  padding-bottom: 10px;
 }
 
 div,
 .first-section {
-  background-color: #151d3b;
+  background-color: #1f2937;
   border-style: solid;
   box-sizing: content-box;
 }
@@ -76,22 +79,26 @@ div,
 h1 {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
+  font-size: 48px;
 }
 
 h2 {
   text-align: center;
-  font-size: 20pt;
+  font-size: 36px;
   font-weight: 700;
+  color: #1f2937;
 }
 
 h3 {
   font-weight: 100;
-  padding-top: 70pt;
+  padding-top: 40pt;
   padding-bottom: 10pt;
   padding-left: 70pt;
   padding-right: 60pt;
   font-style: italic;
+  font-size: 36px;
+  color: #1f2937;
 }
 
 h4 {
