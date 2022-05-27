@@ -18,6 +18,15 @@
   border: 0rem;
 }
 
+.sect {
+  background-color: rgba(245, 245, 245, 0.815);
+  height: 300px;
+  width: 950px;
+  margin-top: 50px;
+  margin-left: 250pt;
+  margin-right: 100pt;
+}
+
 .first-section {
   display: block;
   border: 1px;
@@ -49,6 +58,11 @@ h2 {
   text-align: center;
   font-size: 20pt;
   font-weight: 700;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 10pt;
 }
 
 ul,
